@@ -2,7 +2,7 @@
 
 ---
 
-[dif](https://github.com/koknat/dif)
+[**dif**](https://github.com/koknat/dif)
 
 This is a project which grew from my day-to-day coding needs.<br>
 dif is a preprocessing front-end for Linux tools such as diff, gvimdiff, kdiff3, meld, etc.<br>
