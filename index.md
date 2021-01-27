@@ -13,14 +13,10 @@ For example:
 * Log files are often many MB of text, with some "don't care" information such as timestamps or temporary filenames
 * json or yaml files may have ordering differences due to the library used to write the file
 
-Advantages:
+Features:
 * Works together with any Linux diff tools
 * Large number of options for preprocessing (grep, search/replace, timestamps, comments, whitespace, json, yaml, etc)
-* Ability to compare directories
+* Ability to generate reports and compare directories
 * Supports SVN and Perforce
-* Highly portable - just copy and run the script
+* Highly portable - just copy and run the script on any Linux system
 * Free
-
-Disadvantages:
-* Only runs on Linux
-
