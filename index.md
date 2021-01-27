@@ -23,7 +23,3 @@ Advantages:
 Disadvantages:
 * Only runs on Linux
 
-
- # <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
